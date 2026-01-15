@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main ()
 {
-    int matrix[5][5];
+    int matrix[8][8];
 
     printf("Enter Element in 5 x 5 matrix : ");
     for(int i = 0; i<5; i++)
